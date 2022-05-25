@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 0.1rem;
+    padding: 0.3rem;
+}
+h3{
+    background-color: whitesmoke;
+    height: 45px;
+    border-radius: 1rem;
+    padding: 0.3rem;
+}
